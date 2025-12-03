@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "POI_PS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::5367" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1.0, "latitude": 10.1133, "longitude": -84.53075, "interes": "Punto de referencia", "fecha_hora": "2025/05/15 11:14:25.000", "Nombre": "Pendiente fuerte" }, "geometry": { "type": "Point", "coordinates": [ 441834.190097795042675, 1118322.190334920305759 ] } },
+{ "type": "Feature", "properties": { "fid": 2.0, "latitude": 10.11336, "longitude": -84.53045, "interes": "Desenso del terreno", "fecha_hora": "2025/06/15 11:14:32.000", "Nombre": "Pendiente fuerte" }, "geometry": { "type": "Point", "coordinates": [ 441867.079285189625807, 1118328.772957547567785 ] } },
+{ "type": "Feature", "properties": { "fid": 3.0, "latitude": 10.11383, "longitude": -84.53257, "interes": "Inicio del sendero", "fecha_hora": "2025/07/17 11:08:25.451", "Nombre": "Entrada principal" }, "geometry": { "type": "Point", "coordinates": [ 441634.823542012833059, 1118381.13455335679464 ] } },
+{ "type": "Feature", "properties": { "fid": 5.0, "latitude": 10.11322, "longitude": -84.53159, "interes": "Interseccion/desvio camino primario y camino secundario", "fecha_hora": "2025/05/15 11:11:07.000", "Nombre": "Intersección" }, "geometry": { "type": "Point", "coordinates": [ 441739.340619089722168, 1118309.298741727368906 ] } },
+{ "type": "Feature", "properties": { "fid": 7.0, "latitude": 10.11232, "longitude": -84.53112, "interes": "Punto de referencia", "fecha_hora": "2025/05/15 11:55:57.000", "Nombre": "Pendiente fuerte" }, "geometry": { "type": "Point", "coordinates": [ 441813.440795655129477, 1118219.319955897983164 ] } },
+{ "type": "Feature", "properties": { "fid": 9.0, "latitude": 10.11257, "longitude": -84.53035, "interes": "Interseccion/desvio auditorio camino secundario", "fecha_hora": "2025/05/15 11:27:55.000", "Nombre": "Riesgo deslizamiento" }, "geometry": { "type": "Point", "coordinates": [ 441879.767069768218789, 1118242.889766524313018 ] } },
+{ "type": "Feature", "properties": { "fid": 10.0, "latitude": 10.11255, "longitude": -84.53036, "interes": "Interseccion/desvio auditorio camino secundario", "fecha_hora": "2025/05/15 11:30:27.000", "Nombre": "Intersección" }, "geometry": { "type": "Point", "coordinates": [ 441883.405917724536266, 1118223.372309304075316 ] } },
+{ "type": "Feature", "properties": { "fid": 11.0, "latitude": 10.11223, "longitude": -84.53121, "interes": "Punto de referencia", "fecha_hora": "2025/05/15 12:00:22.000", "Nombre": "Zona de descanso" }, "geometry": { "type": "Point", "coordinates": [ 441782.841392385947984, 1118209.147721838438883 ] } },
+{ "type": "Feature", "properties": { "fid": 12.0, "latitude": 10.11245, "longitude": -84.53154, "interes": "Tomatal", "fecha_hora": "2025/05/15 12:03:34.000", "Nombre": "Salida tomatal" }, "geometry": { "type": "Point", "coordinates": [ 441747.457099270948675, 1118228.319689488271251 ] } },
+{ "type": "Feature", "properties": { "fid": 13.0, "latitude": 10.11227, "longitude": -84.53024, "interes": "Auditorio", "fecha_hora": "2025/05/15 11:37:21.000", "Nombre": "Audiotorio" }, "geometry": { "type": "Point", "coordinates": [ 441889.898152278212365, 1118208.179430994670838 ] } }
+]
+}
